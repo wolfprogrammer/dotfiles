@@ -1,0 +1,10 @@
+gEDA/gschem version 1.8.1.20121123
+gEDA/gschem comes with ABSOLUTELY NO WARRANTY; see COPYING for more details.
+This is free software, and you are welcome to redistribute it under certain
+conditions; please see the COPYING file for more details.
+
+Read init scm file [/usr/share/gEDA/scheme/gschem.scm]
+Parsed config from [/usr/share/gEDA/system-gafrc]
+Parsed config from [/usr/share/gEDA/system-gschemrc]
+Parsed config from [/home/caio/.gEDA/gschemrc]
+New file [/home/caio/untitled_1.sch]

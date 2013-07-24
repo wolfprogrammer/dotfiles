@@ -1,0 +1,68 @@
+gEDA/gschem version 1.6.2.20110115
+gEDA/gschem comes with ABSOLUTELY NO WARRANTY; see COPYING for more details.
+This is free software, and you are welcome to redistribute it under certain
+conditions; please see the COPYING file for more details.
+
+Read system config file [/etc/gEDA/system-gafrc]
+
+In unknown file:
+   ?:  0* [primitive-load "/home/caio/.gEDA/gafrc"]
+In /home/caio/.gEDA/gafrc:
+  23:  1* (use-modules (geda deprecated))
+  23:  2  (eval-case (# # *unspecified*) (else #))
+  23:  3  (begin (process-use-modules (list (list #))) *unspecified*)
+In unknown file:
+   ?:  4* [process-use-modules (((geda deprecated)))]
+   ?:  5  (let* ((interfaces #)) (call-with-deferred-observers (lambda () #)))
+   ?:  6* [map #<procedure #f (mif-args)> (((geda deprecated)))]
+   ?:  7* [#<procedure #f (mif-args)> ((geda deprecated))]
+   ?:  8* (or (apply resolve-interface mif-args) (error "no such module" mif-args))
+   ?:  9* [apply #<procedure resolve-interface (name . args)> ((geda deprecated))]
+   ?: 10  [resolve-interface (geda deprecated)]
+    ...
+   ?: 11  (let* (# # # # ...) (and # #) (if # public-i #))
+   ?: 12* (and (or (not module) (not public-i)) (error "no code for module" name))
+   ?: 13  [error "no code for module" (geda deprecated)]
+    ...
+   ?: 14  [scm-error misc-error #f ...]
+
+Unknown file: no code for module (geda deprecated)
+Read user config file [/home/caio/.gEDA/gafrc]
+Read system config file [/etc/gEDA/system-gschemrc]
+
+In unknown file:
+   ?:  0* [primitive-load "/home/caio/.gEDA/gschemrc"]
+In /home/caio/.gEDA/gschemrc:
+   6:  1* (use-modules (gschem deprecated))
+   6:  2  (eval-case (# # *unspecified*) (else #))
+   6:  3  (begin (process-use-modules (list (list #))) *unspecified*)
+In unknown file:
+   ?:  4* [process-use-modules (((gschem deprecated)))]
+   ?:  5  (let* ((interfaces #)) (call-with-deferred-observers (lambda () #)))
+   ?:  6* [map #<procedure #f (mif-args)> (((gschem deprecated)))]
+   ?:  7* [#<procedure #f (mif-args)> ((gschem deprecated))]
+   ?:  8* (or (apply resolve-interface mif-args) (error "no such module" mif-args))
+   ?:  9* [apply #<procedure resolve-interface (name . args)> ((gschem deprecated))]
+   ?: 10  [resolve-interface (gschem deprecated)]
+    ...
+   ?: 11  (let* (# # # # ...) (and # #) (if # public-i #))
+   ?: 12* (and (or (not module) (not public-i)) (error "no code for module" name))
+   ?: 13  [error "no code for module" (gschem deprecated)]
+    ...
+   ?: 14  [scm-error misc-error #f ...]
+
+Unknown file: no code for module (gschem deprecated)
+Read user config file [/home/caio/.gEDA/gschemrc]
+Read init scm file [/usr/share/gEDA/scheme/gschem.scm]
+New file [/home/caio/untitled_1.sch]
+Invalid borders specified for theme pixmap:
+        /usr/share/themes/Lubuntu-default/gtk-2.0/images/null.png,
+borders don't fit within the imageInvalid borders specified for theme pixmap:
+        /usr/share/themes/Lubuntu-default/gtk-2.0/images/scrollbar_vertical.png,
+borders don't fit within the imageInvalid borders specified for theme pixmap:
+        /usr/share/themes/Lubuntu-default/gtk-2.0/images/null.png,
+borders don't fit within the imageInvalid borders specified for theme pixmap:
+        /usr/share/themes/Lubuntu-default/gtk-2.0/images/scrollbar_horizontal.png,
+borders don't fit within the imageInvalid borders specified for theme pixmap:
+        /usr/share/themes/Lubuntu-default/gtk-2.0/images/scrollbar_horizontal-sel.png,
+borders don't fit within the image

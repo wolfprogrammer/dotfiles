@@ -1,0 +1,71 @@
+[user]
+	name = caio
+	email = ghost@gmail.com
+
+[core]
+	editor = vim
+
+
+[alias]
+	ci = commit -a
+	co = checkout
+	st = status 
+	praise = blame
+	vis = !gitk --all &
+	lo  =  log  --oneline --abbrev-commit --all --graph --decorate --color
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+	gcm = commit -a -m
+	ga =  add
+	gd =  diff
+	go = checkout 
+	wdiff = diff --color-words 
+	gs= show  
+	gr= grep
+
+
+
+[apply]
+    whitespace = strip
+
+[color]
+	ui=true
+
+[color "branch"]
+  current = yellow black
+  local = yellow
+  remote = magenta    
+
+[color "diff"]
+  meta = yellow bold
+  frag = magenta bold
+  old = red reverse
+  new = green reverse
+  whitespace = white reverse    
+
+[color "status"]
+  added = yellow
+  changed = green
+  untracked = cyan reverse
+  branch = magenta
+
+[pager]
+    color = true
+
+[status]
+    color = auto
+
+[diff]
+	tool = vimdiff
+
+[pager]
+	status = true
+	show-branch = true
+[push]
+	default = simple
+[giggle]
+	main-window-maximized = false
+	main-window-geometry = 700x550+866+241
+	history-view-vpane-position = 290
+	main-window-view = FileView
+[cola]
+	tabwidth = 5

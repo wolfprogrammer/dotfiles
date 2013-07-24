@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+  <name>Circuit2</name>
+  <name xml:lang="de">Schaltkreis2</name>
+  <name xml:lang="fr">Circuit2</name>
+  <description>Diagonal and other components for circuit diagrams</description>
+  <description xml:lang="de">Diagonale und andere Bauteile für Schaltkreisdiagramme</description>
+  <description xml:lang="fr">Diagonal et autres composants pour des schémas de circuit</description>
+  <contents>
+    <object name="Circuit2 - Diagonal Resistor">
+      <description>Diagonally aligned resistor</description>
+      <description xml:lang="de">Diagonal ausgerichteter Widerstand</description>
+      <description xml:lang="fr">Résistance alignée diagonalement</description>
+    </object>
+    <object name="Circuit2 - Diagonal Inductor">
+      <description>Diagonally aligned inductor</description>
+      <description xml:lang="de">Diagonal ausgerichtete Drosselspule</description>
+      <description xml:lang="fr">Bobine d'induction alignée diagonalement</description>
+    </object>
+    <object name="Circuit2 - Diagonal Resistor (European)">
+      <description>Diagonally aligned resistor (European)</description>
+      <description xml:lang="de">Diagonal ausgerichteter Widerstand (Europäisch)</description>
+      <description xml:lang="fr">Résistance alignée diagonalement (européenne)</description>
+    </object>
+    <object name="Circuit2 - Diagonal Inductor (European)">
+      <description>Diagonally aligned inductor (European)</description>
+      <description xml:lang="de">Diagonal ausgerichtete Drosselspule (Europäisch)</description>
+      <description xml:lang="fr">Bobine d'induction alignée diagonalement (européenne)</description>
+    </object>
+    <object name="Circuit2 - Diagonal Capacitor">
+      <description>Diagonally aligned capacitor</description>
+      <description xml:lang="de">Diagonal ausgerichteter Kondensator</description>
+      <description xml:lang="fr">Condensateur aligné diagonalement</description>
+    </object>
+    <object name="Circuit2 - Horizontal Polarized Capacitor">
+       <description>Horizontal Polarized Capacitor</description>
+       <description xml:lang="de">Horizontal ausgerichteter gepolter Kondensator</description>
+       <description xml:lang="fr">Condensateur polarisé alignée horizontalement</description>
+    </object>
+    <object name="Circuit2 - Vertical Polarized Capacitor">
+       <description>Vertical Polarized Capacitor</description>
+       <description xml:lang="de">Vertikal ausgerichteter gepolter Kondensator</description>
+       <description xml:lang="fr">Condensateur polarisé aligné verticalement </description>
+    </object>
+    <object name="Circuit2 - Diagonal Polarized Capacitor">
+      <description>Diagonally aligned polarized capacitor</description>
+      <description xml:lang="de">Diagonal ausgerichteter gepolter Kondensator</description>
+      <description xml:lang="fr">Condensateur polarisé aligné diagonalement</description>
+    </object>
+    <object name="Circuit2 - Diagonal Diode">
+      <description>Diagonally aligned diode</description>
+      <description xml:lang="de">Diagonal ausgerichtete Diode</description>
+      <description xml:lang="fr">Diode alignée diagonalement</description>
+    </object>
+    <object name="Circuit2 - Diagonal Zener Diode">
+      <description>Diagonally aligned zener diode</description>
+      <description xml:lang="de">Diagonal ausgerichtete Zener-Diode</description>
+      <description xml:lang="fr">Diode Zener alignée diagonalement</description>
+    </object>
+    <object name="Circuit2 - Diagonal Led (European)">
+      <description>Diagonally aligned LED</description>
+      <description xml:lang="de">Diagonal ausgerichtete LED</description>
+      <description xml:lang="fr">DEL alignée diagonalement</description>
+    </object>
+    <object name="Circuit2 - Horizontal LED">
+       <description>Horizontal LED</description>
+       <description xml:lang="de">Horizontal ausgerichtete LED</description>
+       <description xml:lang="fr">DEL alignée horizontalement</description>
+    </object>
+    <object name="Circuit2 - Vertical LED">
+       <description>Vertical LED</description>
+       <description xml:lang="de">Vertikal ausgerichtete LED</description>
+       <description xml:lang="fr">DEL alignée verticalement</description>
+    </object>
+    <object name="Circuit2 - Sine Wave">
+     <description>Sine Wave Source</description>
+     <description xml:lang="de">Sinuswellengenerator</description>
+     <description xml:lang="fr">Oscillateur Sine</description>
+    </object>
+    <object name="Circuit2 - Square Wave">
+       <description>Square Wave Source</description>
+       <description xml:lang="de">Rechteckgenerator</description>
+       <description xml:lang="fr">Oscillateur Square</description>
+    </object>
+    <object name="Circuit2 - TRIAC">
+       <description>TRIAC</description>
+       <description xml:lang="de">Triac</description>
+       <description xml:lang="fr">Triac</description>
+    </object>
+    <object name="Circuit2 - Optoisolator">
+       <description>Optoisolator</description>
+    </object>
+    <object name="Circuit2 - Relay">
+       <description>Relay</description>
+       <description xml:lang="de">Relais</description>
+       <description xml:lang="fr">Relais</description>
+    </object>
+    <object name="Circuit2 - Triangle Wave">
+       <description>Triangle Wave Source</description>
+       <description xml:lang="de">Dreieckwellengenerator</description>
+       <description xml:lang="fr">Oscillateur Triangle</description>
+    </object>
+    <object name="Circuit2 - Ramp Wave">
+       <description>Ramp Wave Source</description>
+       <description xml:lang="de">Sägezahnwellengenerator</description>
+       <description xml:lang="fr">Oscillateur Rampe</description>
+    </object>
+    <object name="Circuit2 - Vertical Ammeter">
+       <description>Vertical Ammeter</description>
+       <description xml:lang="de">Vertikal ausgerichtetes Amperemeter</description>
+       <description xml:lang="fr">Ampèremètre aligné verticalement</description>
+    </object>
+    <object name="Circuit2 - Vertical Voltmeter">
+       <description>Vertical Voltmeter</description>
+       <description xml:lang="de">Vertikal ausgerichtetes Voltmeter</description>
+       <description xml:lang="fr">Voltmètre aligné verticalement</description>
+    </object>
+    <object name="Circuit2 - Horizontal Ammeter">
+       <description>Horizontal Ammeter</description>
+       <description xml:lang="de">Horizontal ausgerichtetes Amperemeter</description>
+       <description xml:lang="fr">Ampèremètre aligné horizontalement</description>
+    </object>
+    <object name="Circuit2 - Horizontal Voltmeter">
+       <description>Horizontal Voltmeter</description>
+       <description xml:lang="de">Horizontal ausgerichtetes Voltmeter</description>
+       <description xml:lang="fr">Voltmètre aligné horizontalement</description>
+    </object>
+  </contents>
+</sheet>

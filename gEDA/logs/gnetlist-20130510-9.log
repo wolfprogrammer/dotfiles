@@ -1,0 +1,9 @@
+gEDA/gnetlist version 1.9.0.20121203
+gEDA/gnetlist comes with ABSOLUTELY NO WARRANTY; see COPYING for more details.
+This is free software, and you are welcome to redistribute it under certain
+conditions; please see the COPYING file for more details.
+
+Loaded RC file [/usr/share/gEDA/system-gafrc]
+Loaded RC file [/usr/share/gEDA/system-gnetlistrc]
+Loaded RC file [/home/caio/.gEDA/gnetlistrc]
+Component [ACS712.sym] was not found in the component library

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<!--Dia-Version: 0.97.2-->
+<!--File: /home/caio/.dia/sheets/Power_Electronic.sheet-->
+<!--Date: Thu Apr 25 18:54:17 2013-->
+<!--For: caio-->
+
+<name>Power Electronic</name>
+<description>Power electronic shapes</description>
+<contents>
+<!--add shapes here-->
+<object name="shapes - pv-panel">
+<description>Photovoltaic Panel Symbol</description></object><object name="shapes - hresistor">
+<description>Horizontal resistor/Load</description></object><object name="shapes - agnd">
+<description>Analog GND - Ground</description></object><object name="shapes - vresistor">
+<description>Vertical Load/Resistor</description></object><object name="shapes - gnd">
+<description>GND - Ground</description></object><object name="shapes - battery">
+<description>Battery</description></object><object name="Electronic - transistor_misfe_c_p">
+<description>MISFE conducting transistor - P</description></object><object name="Electronic - transistor_misfe_c_n">
+<description>MISFE conducting transistor - N</description></object><object name="Electronic - transistor_misfe_i_n">
+<description>MISFE inducting transistor - N</description></object><object name="Electronic - transistor_misfe_i_p">
+<description>MISFE inducting transistor - P</description></object><object name="Circuit - Horizontal Inductor">
+<description>Horizontally aligned inductor</description></object><object name="Circuit - Vertical Inductor">
+<description>Vertically aligned inductor</description></object><object name="Circuit - Horizontal Resistor">
+<description>Horizontally aligned resistor</description></object><object name="Circuit - Vertical Resistor">
+<description>Vertically aligned resistor</description></object><object name="Circuit - Vertical Resistor (European)">
+<description>Vertically aligned resistor (European)</description></object><object name="Circuit - Horizontal Resistor (European)">
+<description>Horizontally aligned resistor (European)</description></object><object name="Circuit - Vertical Capacitor">
+<description>Vertically aligned capacitor</description></object><object name="Circuit - Horizontal Capacitor">
+<description>Horizontally aligned capacitor</description></object><object name="Circuit - Horizontal Diode">
+<description>Horizontally aligned diode</description></object><object name="Circuit - Vertical Diode">
+<description>Vertically aligned diode</description></object><object name="Circuit - Ground">
+<description>Ground point</description></object><object name="Circuit - Horizontal Powersource (European)">
+<description>Horizontally aligned powersource</description></object><object name="Circuit - Lamp (European)">
+<description>Lamp</description></object><object name="Circuit - Speaker (European)">
+<description>Speaker</description></object></contents></sheet>

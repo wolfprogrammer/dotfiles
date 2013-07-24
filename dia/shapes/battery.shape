@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>shapes - battery</name>
+  <icon>battery.png</icon>
+  <connections>
+    <point x="21" y="10.9"/>
+    <point x="22.6" y="10.9"/>
+    <point x="21.8" y="10.9"/>
+    <point x="21.3" y="11.1"/>
+    <point x="22.3" y="11.1"/>
+    <point x="21.8" y="11.1"/>
+    <point x="21.8" y="10.9"/>
+    <point x="21.8" y="10.5"/>
+    <point x="21.8" y="10.7"/>
+    <point x="21.8" y="11.1"/>
+    <point x="21.8" y="11.6"/>
+    <point x="21.8" y="11.35"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.05; stroke: #000000" x1="21" y1="10.9" x2="22.6" y2="10.9"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="21.3" y1="11.1" x2="22.3" y2="11.1"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" x1="21.8" y1="10.9" x2="21.8" y2="10.5"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" x1="21.8" y1="11.1" x2="21.8" y2="11.6"/>
+  </svg:svg>
+</shape>

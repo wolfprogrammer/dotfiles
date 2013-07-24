@@ -1,0 +1,60 @@
+gEDA/gnetlist version 1.9.0.20121203
+gEDA/gnetlist comes with ABSOLUTELY NO WARRANTY; see COPYING for more details.
+This is free software, and you are welcome to redistribute it under certain
+conditions; please see the COPYING file for more details.
+
+Loaded RC file [/usr/share/gEDA/system-gafrc]
+Library name [Misc. unsorted symbols] already in use.  Using [Misc. unsorted symbols<1>].
+Library name [Relays (misc)] already in use.  Using [Relays (misc)<1>].
+Library name [Optocouplers (misc)] already in use.  Using [Optocouplers (misc)<1>].
+Library name [Microprocessor supervisors (misc)] already in use.  Using [Microprocessor supervisors (misc)<1>].
+Library name [Programmable logic arrays (misc)] already in use.  Using [Programmable logic arrays (misc)<1>].
+Library name [RF elements (misc)] already in use.  Using [RF elements (misc)<1>].
+Library name [Vacuum tubes (misc)] already in use.  Using [Vacuum tubes (misc)<1>].
+Library name [Transistors (misc)] already in use.  Using [Transistors (misc)<1>].
+Library name [Microcontrollers (misc)] already in use.  Using [Microcontrollers (misc)<1>].
+Library name [Memory devices (misc)] already in use.  Using [Memory devices (misc)<1>].
+Library name [PC104 bus] already in use.  Using [PC104 bus<1>].
+Library name [Xilinx] already in use.  Using [Xilinx<1>].
+Library name [ST Microelectronics] already in use.  Using [ST Microelectronics<1>].
+Library name [Philips Electronics] already in use.  Using [Philips Electronics<1>].
+Library name [National Semiconductor] already in use.  Using [National Semiconductor<1>].
+Library name [Mini-Circuits] already in use.  Using [Mini-Circuits<1>].
+Library name [Maxim/Dallas] already in use.  Using [Maxim/Dallas<1>].
+Library name [Linear Technology] already in use.  Using [Linear Technology<1>].
+Library name [Lattice Semiconductor] already in use.  Using [Lattice Semiconductor<1>].
+Library name [International Rectifier] already in use.  Using [International Rectifier<1>].
+Library name [IDT] already in use.  Using [IDT<1>].
+Library name [DEC] already in use.  Using [DEC<1>].
+Library name [Apex Microtechnology] already in use.  Using [Apex Microtechnology<1>].
+Library name [Connectors (Amphenol)] already in use.  Using [Connectors (Amphenol)<1>].
+Library name [Altera] already in use.  Using [Altera<1>].
+Library name [Allegro Microsystems] already in use.  Using [Allegro Microsystems<1>].
+Library name [Contact pads (ASIC)] already in use.  Using [Contact pads (ASIC)<1>].
+Library name [Basic devices (ASIC)] already in use.  Using [Basic devices (ASIC)<1>].
+Library name [SWITCAP simulation elements] already in use.  Using [SWITCAP simulation elements<1>].
+Library name [SPICE simulation elements] already in use.  Using [SPICE simulation elements<1>].
+Library name [Cascade simulation elements] already in use.  Using [Cascade simulation elements<1>].
+Library name [ECL logic] already in use.  Using [ECL logic<1>].
+Library name [4000-series logic] already in use.  Using [4000-series logic<1>].
+Library name [74-series logic] already in use.  Using [74-series logic<1>].
+Library name [IEC 60417] already in use.  Using [IEC 60417<1>].
+Library name [Titleblocks (generic)] already in use.  Using [Titleblocks (generic)<1>].
+Library name [Switches (generic)] already in use.  Using [Switches (generic)<1>].
+Library name [Radio elements (generic)] already in use.  Using [Radio elements (generic)<1>].
+Library name [Power rails] already in use.  Using [Power rails<1>].
+Library name [Input/output (generic)] already in use.  Using [Input/output (generic)<1>].
+Library name [Diodes (generic)] already in use.  Using [Diodes (generic)<1>].
+Library name [Connectors (generic)] already in use.  Using [Connectors (generic)<1>].
+Library name [Basic devices] already in use.  Using [Basic devices<1>].
+Library name [local] already in use.  Using [local<1>].
+Loaded RC file [/home/caio/.gEDA/gafrc]
+Loaded RC file [/usr/share/gEDA/system-gnetlistrc]
+More than one component found with name [title-B.sym]
+More than one component found with name [connector1-2.sym]
+More than one component found with name [connector1-2.sym]
+More than one component found with name [capacitor-1.sym]
+More than one component found with name [gnd-1.sym]
+More than one component found with name [gnd-1.sym]
+More than one component found with name [gnd-1.sym]
+More than one component found with name [capacitor-1.sym]

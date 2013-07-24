@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>shapes - pv-panel</name>
+  <icon>pv-panel.png</icon>
+  <connections>
+    <point x="19.4" y="-18.4"/>
+    <point x="21.2" y="-18.4"/>
+    <point x="20.3" y="-18.4"/>
+    <point x="19.4" y="-18.4"/>
+    <point x="19.4" y="-16.2"/>
+    <point x="19.4" y="-17.3"/>
+    <point x="19.4" y="-16.2"/>
+    <point x="21.2" y="-16.2"/>
+    <point x="20.3" y="-16.2"/>
+    <point x="21.2" y="-18.4"/>
+    <point x="21.2" y="-16.2"/>
+    <point x="21.2" y="-17.3"/>
+    <point x="19.4" y="-18.4"/>
+    <point x="20.3" y="-17.3"/>
+    <point x="19.85" y="-17.85"/>
+    <point x="20.3" y="-17.3"/>
+    <point x="21.2" y="-18.4"/>
+    <point x="20.75" y="-17.85"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" x1="19.4" y1="-18.4" x2="21.2" y2="-18.4"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" x1="19.4" y1="-18.4" x2="19.4" y2="-16.2"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" x1="19.4" y1="-16.2" x2="21.2" y2="-16.2"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" x1="21.2" y1="-18.4" x2="21.2" y2="-16.2"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" x1="19.4" y1="-18.4" x2="20.3" y2="-17.3"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" x1="20.3" y1="-17.3" x2="21.2" y2="-18.4"/>
+  </svg:svg>
+</shape>
